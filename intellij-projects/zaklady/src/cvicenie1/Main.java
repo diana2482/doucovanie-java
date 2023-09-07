@@ -6,5 +6,8 @@ public class Main {
         int[] cisla = {1,2,3,4,0};
         System.out.println(w.nulaNaIndexe(cisla));
 
+        // TODO
+        Stringy strings = new Stringy();
+        strings.metodka();
     }
 }
