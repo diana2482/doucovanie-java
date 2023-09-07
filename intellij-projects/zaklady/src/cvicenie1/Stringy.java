@@ -3,6 +3,11 @@ import java.util.Scanner;  // Import the Scanner class
 
 public class Stringy {
     // TODO: 1.
+    public static String getReversedString(String str) {
+        StringBuilder stbuilder = new StringBuilder(str);
+        System.out.println(stbuilder.reverse());
+        return str;
+    }
 
     // TODO: 2.
 
